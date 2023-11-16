@@ -1,0 +1,24 @@
+﻿@using SistemaCadenaAlimenticia.Data.EF
+<div class="alert-success mt-3">
+    @TempData["Exito"]
+</div>
+<div>
+    <h1 class="text-center">Sucursales</h1>
+    <table class="table">
+        <tr>
+            <th>Id </th>
+            <th>Direccion</th>
+            <th>Ciudad</th>
+            <th>Cadena</th>
+        </tr>
+        @foreach (var sucursal in ViewBag.Sucursales)
+        {
+            <tr>
+                <td>@sucursal.IdSucursal</td>
+                <td>@sucursal.Direccion</td>
+                <td>@sucursal.Ciudad</td>
+                <td>@sucursal.IdCadenaNavigation.RazonSocial</td>
+            </tr>
+        }
+    </table>
+</div>

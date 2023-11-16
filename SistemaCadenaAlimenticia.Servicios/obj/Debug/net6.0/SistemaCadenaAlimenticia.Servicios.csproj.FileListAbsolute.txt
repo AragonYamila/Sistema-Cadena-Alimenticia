@@ -1,0 +1,17 @@
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.deps.json
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.runtimeconfig.json
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.pdb
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.csproj.AssemblyReference.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.AssemblyInfoInputs.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.AssemblyInfo.cs
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\refint\SistemaCadenaAlimenticia.Servicios.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.pdb
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.genruntimeconfig.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\ref\SistemaCadenaAlimenticia.Servicios.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.pdb
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Servicios\obj\Debug\net6.0\SistemaCadenaAlimenticia.Servicios.csproj.CopyComplete

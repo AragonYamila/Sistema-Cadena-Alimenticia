@@ -1,0 +1,14 @@
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.deps.json
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.runtimeconfig.json
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\bin\Debug\net6.0\SistemaCadenaAlimenticia.Data.pdb
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.csproj.AssemblyReference.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.AssemblyInfoInputs.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.AssemblyInfo.cs
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.csproj.CoreCompileInputs.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\refint\SistemaCadenaAlimenticia.Data.dll
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.pdb
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\SistemaCadenaAlimenticia.Data.genruntimeconfig.cache
+C:\Users\arago\source\repos\SistemaCadenaAlimenticia.Web\SistemaCadenaAlimenticia.Data\obj\Debug\net6.0\ref\SistemaCadenaAlimenticia.Data.dll

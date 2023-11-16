@@ -1,0 +1,26 @@
+﻿@model List<SistemaCadenaAlimenticia.Data.EF.Cadena>;
+
+<h1>Agregue una nueva sucursal</h1>
+<div>
+    <form action="/CadenaAlimenticia/AltaSucursal" method="post">
+        <input type="hidden" name="IdSucursal"/>
+        <div class="mb-3">
+            <select name="IdCadena">
+                @foreach (var cadena in Model)
+                {
+                    <option value="@cadena.IdCadena">@cadena.RazonSocial</option>
+                }
+            </select>
+        </div>
+
+        <div class ="mb-3">
+            Direccion: <input type="text" name="Direccion" />
+        </div>
+        <div class="mb-3">
+            Ciudad: <input type="text" name="Ciudad" />
+        </div>
+        <div>
+            <input type="submit" value="Guardar"/>
+        </div>
+    </form>
+</div>
